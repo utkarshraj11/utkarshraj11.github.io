@@ -1,0 +1,18 @@
+# Dependencies and build output
+node_modules
+dist
+*.tsbuildinfo
+
+# Local and OS files
+*.local
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# AI agent and design-tool files
+.agents/
+.claude/
+.codex/
+.impeccable/
+skills-lock.json
